@@ -3,5 +3,5 @@
     "description": "An SDK to connect with Amazon Web Services",
     "link": "http://aws.amazon.com/sdkfornet/",
     "license": "Apache 2.0",
-    "notes": "Patched to support additional timeout properties"
+    "notes": ""
 }
